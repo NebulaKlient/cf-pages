@@ -4,7 +4,7 @@
   "description": "[Live Demo](https://mrdemonwolf.github.io/cf-pages/)",
   "main": "index.js",
   "scripts": {
-    "build:css": "tailwindcss -o output.css --minify",
+    "build:css": "tailwindcss -o output.css",
     "watch:css": "tailwindcss -i ./input.css -o ./output.css --watch"
   },
   "repository": {
