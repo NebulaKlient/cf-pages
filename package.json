@@ -19,5 +19,8 @@
   "homepage": "https://github.com/MrDemonWolf/cf-pages#readme",
   "devDependencies": {
     "tailwindcss": "^3.1.4"
+  },
+  "dependencies": {
+    "prettier": "^3.5.3"
   }
 }
